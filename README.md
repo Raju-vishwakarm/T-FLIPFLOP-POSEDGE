@@ -39,6 +39,7 @@ From the above characteristic table, we can directly write the next state equati
 5.Simulate the design to generate the timing diagram for different combinations of input.  */
 
 **PROGRAM**
+
 module tflip (t, clk, rst, q);
 
 input t, clk, rst;
